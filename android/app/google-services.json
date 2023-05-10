@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "100285422604",
+    "project_id": "fawran-443e4",
+    "storage_bucket": "fawran-443e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100285422604:android:f9820453b786f0a6202229",
+        "android_client_info": {
+          "package_name": "com.fawran.deliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100285422604-1q134s2jlsovouo7efle3f4dbkub4j9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAflfrh7pH2DVwbMydfH9XTj-gIGwT1eDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100285422604-1q134s2jlsovouo7efle3f4dbkub4j9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100285422604:android:2253373241e2410d202229",
+        "android_client_info": {
+          "package_name": "com.fawran.storeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100285422604-1q134s2jlsovouo7efle3f4dbkub4j9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAflfrh7pH2DVwbMydfH9XTj-gIGwT1eDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100285422604-1q134s2jlsovouo7efle3f4dbkub4j9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100285422604:android:c93819914572a81d202229",
+        "android_client_info": {
+          "package_name": "com.fawran.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100285422604-4fcmp24pvhohhuu12v0tsb3ff3bb7n58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fawran.userapp",
+            "certificate_hash": "0daa93eee3cff8068482556958edd0e000ddd9b2"
+          }
+        },
+        {
+          "client_id": "100285422604-1q134s2jlsovouo7efle3f4dbkub4j9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAflfrh7pH2DVwbMydfH9XTj-gIGwT1eDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100285422604-1q134s2jlsovouo7efle3f4dbkub4j9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
