@@ -6,7 +6,7 @@ class AppConstants {
   static const String APP_NAME = 'فوراً';
   static const double APP_VERSION = 2.1;
 
-  static const String BASE_URL = 'https://admin.watanmeet.online';
+  static const String BASE_URL = 'https://admin.fauoran.com';
   static const String CATEGORY_URI = '/api/v1/categories';
   static const String BANNER_URI = '/api/v1/banners';
   static const String STORE_ITEM_URI = '/api/v1/items/latest';
