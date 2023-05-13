@@ -14,6 +14,22 @@
       },
       "oauth_client": [
         {
+          "client_id": "100285422604-b1erkpkrueeott6li49sn17fme7m2e0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fawran.deliveryapp",
+            "certificate_hash": "0daa93eee3cff8068482556958edd0e000ddd9b2"
+          }
+        },
+        {
+          "client_id": "100285422604-hoph9ocinv3pjktphcqc7b99nkumjp5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fawran.deliveryapp",
+            "certificate_hash": "3257322e006a432cf330f9209b66daca0ed73d5e"
+          }
+        },
+        {
           "client_id": "100285422604-1q134s2jlsovouo7efle3f4dbkub4j9u.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -42,6 +58,22 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "100285422604-5fqcgln0b4h256vu8dufme17vevvbite.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fawran.storeapp",
+            "certificate_hash": "c6af872e6ef492e950a8c028d927a7b734b3f0b9"
+          }
+        },
+        {
+          "client_id": "100285422604-9c8qr4qvp28n11gu6vffb10a2387s3u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fawran.storeapp",
+            "certificate_hash": "0daa93eee3cff8068482556958edd0e000ddd9b2"
+          }
+        },
         {
           "client_id": "100285422604-1q134s2jlsovouo7efle3f4dbkub4j9u.apps.googleusercontent.com",
           "client_type": 3
@@ -77,6 +109,22 @@
           "android_info": {
             "package_name": "com.fawran.userapp",
             "certificate_hash": "0daa93eee3cff8068482556958edd0e000ddd9b2"
+          }
+        },
+        {
+          "client_id": "100285422604-9hc0q5k7aaovqp81baets8s4bs83nugt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fawran.userapp",
+            "certificate_hash": "26664a0d649e4b8bb30818a08220ff42cb00a732"
+          }
+        },
+        {
+          "client_id": "100285422604-n7bhknepsbg3fbg2eb58u7rkbk989k4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fawran.userapp",
+            "certificate_hash": "869c188d6314d1c385cd5b549085ded031140e7a"
           }
         },
         {
