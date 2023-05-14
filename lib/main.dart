@@ -37,10 +37,10 @@ Future<void> main() async {
   if (GetPlatform.isWeb) {
     await Firebase.initializeApp(
         options: FirebaseOptions(
-      apiKey: 'AIzaSyDFN-73p8zKVZbA0i5DtO215XzAb-xuGSE',
-      appId: '1:1000163153346:web:4f702a4b5adbd5c906b25b',
-      messagingSenderId: 'G-L1GNL2YV61',
-      projectId: 'ammart-8885e',
+      apiKey: 'AIzaSyAflfrh7pH2DVwbMydfH9XTj-gIGwT1eDk',
+      appId: '1:100285422604:android:c93819914572a81d202229',
+      messagingSenderId: '100285422604',
+      projectId: 'fawran-443e4',
     ));
   }
   await Firebase.initializeApp();
