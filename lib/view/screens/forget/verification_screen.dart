@@ -68,10 +68,17 @@ class _VerificationScreenState extends State<VerificationScreen> {
     FirebaseAuth _auth = FirebaseAuth.instance;
 
     if (GetPlatform.isWeb) {
-      ConfirmationResult confirmationResult =
+print('platform web');
+try {
+        ConfirmationResult confirmationResult =
           await _auth.signInWithPhoneNumber(phone);
       codeSent(_auth, context, confirmationResult.verificationId,
           confirmationResult, token);
+
+} catch (e) {
+print(e);
+}
+
     } else {
       _auth.verifyPhoneNumber(
           phoneNumber: phone,
