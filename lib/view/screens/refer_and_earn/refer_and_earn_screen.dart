@@ -159,6 +159,14 @@ class _ReferAndEarnScreenState extends State<ReferAndEarnScreen> {
                           ),
                           SizedBox(height: Dimensions.PADDING_SIZE_EXTRA_LARGE),
                           Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(
+                                  'سيتم اضافة مبلغ الاحالة في محفظتك بعد اجراء اول عملية طلب من قبل صديقك')
+                            ],
+                          ),
+                          SizedBox(height: Dimensions.PADDING_SIZE_EXTRA_LARGE),
+                          Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Text('your_referral_code'.tr,
