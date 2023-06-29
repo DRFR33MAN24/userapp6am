@@ -15,6 +15,7 @@
   "sign_in": "تسجيل الدخول",
   "sign_up": "اشتراك",
   "email": "بريد إلكتروني",
+  "enter_email_address": "الرجاء ادخال البريد الالكتروني",
   "password": "كلمه السر",
   "confirm_password": "تأكيد كلمة السر",
   "remember_me": "تذكرنى",
@@ -243,7 +244,7 @@
   "paid": "مدفوع",
   "unpaid": "غير مدفوع",
   "pending": "قيد الانتظار",
-  "accepted": "موافق",
+  "accepted": "مقبول",
   "processing": "معالجة",
   "confirmed": "مؤكد",
   "handover": "جاهز للتوصيل",
@@ -525,7 +526,7 @@
   "congratulations": "تهانينا !",
   "you_have_earned": "لقد ربحت",
   "points": "نقاط",
-  "points_it_will_add_to": "نقاط. ستضيف إلى رصيدك عند تسليم الطلب.",
+  "points_it_will_add_to": "نقاط. ستضاف إلى رصيدك عند تسليم الطلب.",
   "order_place": "طلب شراء",
   "order_refund": "طلب استرداد",
   "point_to_wallet": "تحويل إلى المحفظة",
@@ -765,5 +766,6 @@
   "no_reasons_available": "لا توجد أسباب متاحة",
   "you_did_not_select_select_any_reason": "أنت لم تحدد أي سبب",
   "switch_to_cod": "قم بالتبديل إلى COD",
-  "cancellation_note": "ملاحظة الإلغاء"
+  "cancellation_note": "ملاحظة الإلغاء",
+  "reffer_screen_text": "سيتم اضافة مبلغ الاحالة في محفظتك بعد اجراء اول عملية طلب من قبل صديقك"
 }

@@ -176,11 +176,15 @@ class AppConstants {
         languageName: 'English',
         countryCode: 'US',
         languageCode: 'en'),
-
     LanguageModel(
         imageUrl: Images.arabic,
         languageName: 'Spanish',
         countryCode: 'ES',
         languageCode: 'es'),
+    LanguageModel(
+        imageUrl: Images.english,
+        languageName: 'Türkçe',
+        countryCode: 'TR',
+        languageCode: 'tr'),
   ];
 }

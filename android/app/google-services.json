@@ -30,6 +30,14 @@
           }
         },
         {
+          "client_id": "100285422604-r1e67k9bhfd5qborqnu6ss8hevvnokjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fawran.deliveryapp",
+            "certificate_hash": "869c188d6314d1c385cd5b549085ded031140e7a"
+          }
+        },
+        {
           "client_id": "100285422604-7qe96ipv5qq5kadc6qjr7q0qtu4tmm6o.apps.googleusercontent.com",
           "client_type": 3
         }

@@ -1,7 +1,7 @@
 name: sixam_mart
 description: A Multi-vendor Food. Grocery, eCommerce, Pharmacy & Parcel service.
 publish_to: "none" #
-version: 1.0.0+1
+version: 5.0.0+5
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -86,4 +86,14 @@ flutter:
         - asset: assets/font/Tajawal-Bold.ttf
           weight: 700
         - asset: assets/font/Tajawal-Black.ttf
+          weight: 900
+    - family: Alexandria
+      fonts:
+        - asset: assets/font/Alexandria-Regular.ttf
+          weight: 400
+        - asset: assets/font/Alexandria-Medium.ttf
+          weight: 500
+        - asset: assets/font/Alexandria-Bold.ttf
+          weight: 700
+        - asset: assets/font/Alexandria-Black.ttf
           weight: 900

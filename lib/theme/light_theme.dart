@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 ThemeData light({Color color = const Color(0xFF039D55)}) => ThemeData(
-      fontFamily: 'Tajawal',
+      fontFamily: 'Alexandria',
       primaryColor: color,
       secondaryHeaderColor: Color(0xFF1ED7AA),
       disabledColor: Color(0xFFBABFC4),
